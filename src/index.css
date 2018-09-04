@@ -1,0 +1,14 @@
+.in-a-row {
+	display: flex;
+	flex-direction: row;
+}
+
+.shop {
+	padding: 8px;
+}
+
+.shop ul {
+	list-style: none;
+	margin: 0;
+	padding: 8px;
+}
